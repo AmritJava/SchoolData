@@ -1,6 +1,6 @@
 # SchoolData
 
-Details about "SchoolData" CRUD Web Application assignment which I have developed as per requirement.
+Details about "SchoolData" CRUD based Web Application.
 
 I am using following technologies and build tools to develop SchoolData CRUD Web Application.
 
